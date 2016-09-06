@@ -1,0 +1,32 @@
+
+% TEXT, 90JIS
+uphminl-h	YuFont_UniJIS-UTF16-H	yuminl.ttf/I %!PS YuMincho-Light
+uphminl-v	YuFont_UniJIS-UTF16-V	yuminl.ttf/I %!PS YuMincho-Light
+uphminr-h	YuFont_UniJIS-UTF16-H	yumin.ttf/I %!PS YuMincho-Regular
+uphminr-v	YuFont_UniJIS-UTF16-V	yumin.ttf/I %!PS YuMincho-Regular
+uphminb-h	YuFont_UniJIS-UTF16-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+uphminb-v	YuFont_UniJIS-UTF16-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+uphgothr-h	YuFont_UniJIS-UTF16-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+uphgothr-v	YuFont_UniJIS-UTF16-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+uphgothb-h	YuFont_UniJIS-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphgothb-v	YuFont_UniJIS-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphgotheb-h	YuFont_UniJIS-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphgotheb-v	YuFont_UniJIS-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphmgothr-h	YuFont_UniJIS-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphmgothr-v	YuFont_UniJIS-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+
+% TEXT, JIS04
+uphminln-h	YuFont_UniJIS2004-UTF16-H	yuminl.ttf/I %!PS YuMincho-Light
+uphminln-v	YuFont_UniJIS2004-UTF16-V	yuminl.ttf/I %!PS YuMincho-Light
+uphminrn-h	YuFont_UniJIS2004-UTF16-H	yumin.ttf/I %!PS YuMincho-Regular
+uphminrn-v	YuFont_UniJIS2004-UTF16-V	yumin.ttf/I %!PS YuMincho-Regular
+uphminbn-h	YuFont_UniJIS2004-UTF16-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+uphminbn-v	YuFont_UniJIS2004-UTF16-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+uphgothrn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+uphgothrn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+uphgothbn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphgothbn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphgothebn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphgothebn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphmgothrn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+uphmgothrn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold

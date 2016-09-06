@@ -1,0 +1,10 @@
+urml	YuFont_UniJIS-UTF16-H	yumin.ttf/I %!PS YuMincho-Regular
+urmlv	YuFont_UniJIS-UTF16-V	yumin.ttf/I %!PS YuMincho-Regular
+ugbm	YuFont_UniJIS-UTF16-H	:0:YuGothM.ttc/I %!PS YuGothic-Medium
+ugbmv	YuFont_UniJIS-UTF16-V	:0:YuGothM.ttc/I %!PS YuGothic-Medium
+uprml-h	YuFont_UniJIS-UTF16-H	yumin.ttf/I %!PS YuMincho-Regular
+uprml-v	YuFont_UniJIS-UTF16-V	yumin.ttf/I %!PS YuMincho-Regular
+upgbm-h	YuFont_UniJIS-UTF16-H	:0:YuGothM.ttc/I %!PS YuGothic-Medium
+upgbm-v	YuFont_UniJIS-UTF16-V	:0:YuGothM.ttc/I %!PS YuGothic-Medium
+uprml-hq	YuFont_UniJIS-UCS2-H	yumin.ttf/I %!PS YuMincho-Regular
+upgbm-hq	YuFont_UniJIS-UCS2-H	:0:YuGothM.ttc/I %!PS YuGothic-Medium

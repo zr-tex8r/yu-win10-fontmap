@@ -1,0 +1,338 @@
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%IncludeResource: ProcSet (CIDInit)
+%%BeginResource: CMap (YuFont_-Identity-H)
+%%Title: (YuFont_-Identity-H Adobe Identity 0)
+%%Version: 10.003
+%%Copyright: -----------------------------------------------------------
+%%Copyright: Copyright 1990-2009 Adobe Systems Incorporated.
+%%Copyright: All rights reserved.
+%%Copyright:
+%%Copyright: Redistribution and use in source and binary forms, with or
+%%Copyright: without modification, are permitted provided that the
+%%Copyright: following conditions are met:
+%%Copyright:
+%%Copyright: Redistributions of source code must retain the above
+%%Copyright: copyright notice, this list of conditions and the following
+%%Copyright: disclaimer.
+%%Copyright:
+%%Copyright: Redistributions in binary form must reproduce the above
+%%Copyright: copyright notice, this list of conditions and the following
+%%Copyright: disclaimer in the documentation and/or other materials
+%%Copyright: provided with the distribution. 
+%%Copyright:
+%%Copyright: Neither the name of Adobe Systems Incorporated nor the names
+%%Copyright: of its contributors may be used to endorse or promote
+%%Copyright: products derived from this software without specific prior
+%%Copyright: written permission. 
+%%Copyright:
+%%Copyright: THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+%%Copyright: CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+%%Copyright: INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+%%Copyright: MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+%%Copyright: DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+%%Copyright: CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+%%Copyright: SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+%%Copyright: NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+%%Copyright: LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+%%Copyright: HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+%%Copyright: CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+%%Copyright: OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+%%Copyright: SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+%%Copyright: -----------------------------------------------------------
+%%EndComments
+
+/CIDInit /ProcSet findresource begin
+
+12 dict begin
+
+begincmap
+
+/CIDSystemInfo 3 dict dup begin
+  /Registry (Adobe) def
+  /Ordering (Identity) def
+  /Supplement 0 def
+end def
+
+/CMapName /YuFont_-Identity-H def
+/CMapVersion 10.003 def
+/CMapType 1 def
+
+
+/WMode 0 def
+
+1 begincodespacerange
+  <0000> <FFFF>
+endcodespacerange
+
+100 begincidrange
+<0000> <00ff> 0
+<0100> <01ff> 258
+<0200> <02ff> 514
+<0300> <03ff> 770
+<0400> <04ff> 1026
+<0500> <05ff> 1282
+<0600> <06ff> 1538
+<0700> <07ff> 1794
+<0800> <08ff> 2050
+<0900> <09ff> 2306
+<0a00> <0aff> 2562
+<0b00> <0bff> 2818
+<0c00> <0cff> 3074
+<0d00> <0dff> 3330
+<0e00> <0eff> 3586
+<0f00> <0fff> 3842
+<1000> <10ff> 4098
+<1100> <11ff> 4354
+<1200> <12ff> 4610
+<1300> <13ff> 4866
+<1400> <14ff> 5122
+<1500> <15ff> 5378
+<1600> <16ff> 5634
+<1700> <17ff> 5890
+<1800> <18ff> 6146
+<1900> <19ff> 6402
+<1a00> <1aff> 6658
+<1b00> <1bff> 6914
+<1c00> <1cff> 7170
+<1d00> <1dff> 7426
+<1e00> <1eff> 7682
+<1f00> <1fff> 7938
+<2000> <20ff> 8194
+<2100> <21ff> 8450
+<2200> <22ff> 8706
+<2300> <23ff> 8962
+<2400> <24ff> 9218
+<2500> <25ff> 9474
+<2600> <26ff> 9730
+<2700> <27ff> 9986
+<2800> <28ff> 10242
+<2900> <29ff> 10498
+<2a00> <2aff> 10754
+<2b00> <2bff> 11010
+<2c00> <2cff> 11266
+<2d00> <2dff> 11522
+<2e00> <2eff> 11778
+<2f00> <2fff> 12034
+<3000> <30ff> 12290
+<3100> <31ff> 12546
+<3200> <32ff> 12802
+<3300> <33ff> 13058
+<3400> <34ff> 13314
+<3500> <35ff> 13570
+<3600> <36ff> 13826
+<3700> <37ff> 14082
+<3800> <38ff> 14338
+<3900> <39ff> 14594
+<3a00> <3aff> 14850
+<3b00> <3bff> 15106
+<3c00> <3cff> 15362
+<3d00> <3dff> 15618
+<3e00> <3eff> 15874
+<3f00> <3fff> 16130
+<4000> <40ff> 16386
+<4100> <41ff> 16642
+<4200> <42ff> 16898
+<4300> <43ff> 17154
+<4400> <44ff> 17410
+<4500> <45ff> 17666
+<4600> <46ff> 17922
+<4700> <47ff> 18178
+<4800> <48ff> 18434
+<4900> <49ff> 18690
+<4a00> <4aff> 18946
+<4b00> <4bff> 19202
+<4c00> <4cff> 19458
+<4d00> <4dff> 19714
+<4e00> <4eff> 19970
+<4f00> <4fff> 20226
+<5000> <50ff> 20482
+<5100> <51ff> 20738
+<5200> <52ff> 20994
+<5300> <53ff> 21250
+<5400> <54ff> 21506
+<5500> <55ff> 21762
+<5600> <56ff> 22018
+<5700> <57ff> 22274
+<5800> <58ff> 22530
+<5900> <59ff> 22786
+<5a00> <5aff> 23042
+<5b00> <5bff> 23298
+<5c00> <5cff> 23554
+<5d00> <5dff> 23810
+<5e00> <5eff> 24066
+<5f00> <5fff> 24322
+<6000> <60ff> 24578
+<6100> <61ff> 24834
+<6200> <62ff> 25090
+<6300> <63ff> 25346
+endcidrange
+
+100 begincidrange
+<6400> <64ff> 25602
+<6500> <65ff> 25858
+<6600> <66ff> 26114
+<6700> <67ff> 26370
+<6800> <68ff> 26626
+<6900> <69ff> 26882
+<6a00> <6aff> 27138
+<6b00> <6bff> 27394
+<6c00> <6cff> 27650
+<6d00> <6dff> 27906
+<6e00> <6eff> 28162
+<6f00> <6fff> 28418
+<7000> <70ff> 28674
+<7100> <71ff> 28930
+<7200> <72ff> 29186
+<7300> <73ff> 29442
+<7400> <74ff> 29698
+<7500> <75ff> 29954
+<7600> <76ff> 30210
+<7700> <77ff> 30466
+<7800> <78ff> 30722
+<7900> <79ff> 30978
+<7a00> <7aff> 31234
+<7b00> <7bff> 31490
+<7c00> <7cff> 31746
+<7d00> <7dff> 32002
+<7e00> <7eff> 32258
+<7f00> <7fff> 32514
+<8000> <80ff> 32770
+<8100> <81ff> 33026
+<8200> <82ff> 33282
+<8300> <83ff> 33538
+<8400> <84ff> 33794
+<8500> <85ff> 34050
+<8600> <86ff> 34306
+<8700> <87ff> 34562
+<8800> <88ff> 34818
+<8900> <89ff> 35074
+<8a00> <8aff> 35330
+<8b00> <8bff> 35586
+<8c00> <8cff> 35842
+<8d00> <8dff> 36098
+<8e00> <8eff> 36354
+<8f00> <8fff> 36610
+<9000> <90ff> 36866
+<9100> <91ff> 37122
+<9200> <92ff> 37378
+<9300> <93ff> 37634
+<9400> <94ff> 37890
+<9500> <95ff> 38146
+<9600> <96ff> 38402
+<9700> <97ff> 38658
+<9800> <98ff> 38914
+<9900> <99ff> 39170
+<9a00> <9aff> 39426
+<9b00> <9bff> 39682
+<9c00> <9cff> 39938
+<9d00> <9dff> 40194
+<9e00> <9eff> 40450
+<9f00> <9fff> 40706
+<a000> <a0ff> 40962
+<a100> <a1ff> 41218
+<a200> <a2ff> 41474
+<a300> <a3ff> 41730
+<a400> <a4ff> 41986
+<a500> <a5ff> 42242
+<a600> <a6ff> 42498
+<a700> <a7ff> 42754
+<a800> <a8ff> 43010
+<a900> <a9ff> 43266
+<aa00> <aaff> 43522
+<ab00> <abff> 43778
+<ac00> <acff> 44034
+<ad00> <adff> 44290
+<ae00> <aeff> 44546
+<af00> <afff> 44802
+<b000> <b0ff> 45058
+<b100> <b1ff> 45314
+<b200> <b2ff> 45570
+<b300> <b3ff> 45826
+<b400> <b4ff> 46082
+<b500> <b5ff> 46338
+<b600> <b6ff> 46594
+<b700> <b7ff> 46850
+<b800> <b8ff> 47106
+<b900> <b9ff> 47362
+<ba00> <baff> 47618
+<bb00> <bbff> 47874
+<bc00> <bcff> 48130
+<bd00> <bdff> 48386
+<be00> <beff> 48642
+<bf00> <bfff> 48898
+<c000> <c0ff> 49154
+<c100> <c1ff> 49410
+<c200> <c2ff> 49666
+<c300> <c3ff> 49922
+<c400> <c4ff> 50178
+<c500> <c5ff> 50434
+<c600> <c6ff> 50690
+<c700> <c7ff> 50946
+endcidrange
+
+56 begincidrange
+<c800> <c8ff> 51202
+<c900> <c9ff> 51458
+<ca00> <caff> 51714
+<cb00> <cbff> 51970
+<cc00> <ccff> 52226
+<cd00> <cdff> 52482
+<ce00> <ceff> 52738
+<cf00> <cfff> 52994
+<d000> <d0ff> 53250
+<d100> <d1ff> 53506
+<d200> <d2ff> 53762
+<d300> <d3ff> 54018
+<d400> <d4ff> 54274
+<d500> <d5ff> 54530
+<d600> <d6ff> 54786
+<d700> <d7ff> 55042
+<d800> <d8ff> 55298
+<d900> <d9ff> 55554
+<da00> <daff> 55810
+<db00> <dbff> 56066
+<dc00> <dcff> 56322
+<dd00> <ddff> 56578
+<de00> <deff> 56834
+<df00> <dfff> 57090
+<e000> <e0ff> 57346
+<e100> <e1ff> 57602
+<e200> <e2ff> 57858
+<e300> <e3ff> 58114
+<e400> <e4ff> 58370
+<e500> <e5ff> 58626
+<e600> <e6ff> 58882
+<e700> <e7ff> 59138
+<e800> <e8ff> 59394
+<e900> <e9ff> 59650
+<ea00> <eaff> 59906
+<eb00> <ebff> 60162
+<ec00> <ecff> 60418
+<ed00> <edff> 60674
+<ee00> <eeff> 60930
+<ef00> <efff> 61186
+<f000> <f0ff> 61442
+<f100> <f1ff> 61698
+<f200> <f2ff> 61954
+<f300> <f3ff> 62210
+<f400> <f4ff> 62466
+<f500> <f5ff> 62722
+<f600> <f6ff> 62978
+<f700> <f7ff> 63234
+<f800> <f8ff> 63490
+<f900> <f9ff> 63746
+<fa00> <faff> 64002
+<fb00> <fbff> 64258
+<fc00> <fcff> 64514
+<fd00> <fdff> 64770
+<fe00> <feff> 65026
+<ff00> <ffff> 65282
+endcidrange
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+%%EndResource
+%%EOF

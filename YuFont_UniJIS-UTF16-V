@@ -1,0 +1,298 @@
+%!PS-Adobe-3.0 Resource-CMap
+%%DocumentNeededResources: ProcSet (CIDInit)
+%%DocumentNeededResources: CMap (UniJIS-UTF16-H)
+%%IncludeResource: ProcSet (CIDInit)
+%%IncludeResource: CMap (UniJIS-UTF16-H)
+%%BeginResource: CMap (YuFont_UniJIS-UTF16-V)
+%%Title: (YuFont_UniJIS-UTF16-V Adobe Identity 0)
+%%Version: 1.004
+%%Copyright: -----------------------------------------------------------
+%%Copyright: Copyright 1990-2009 Adobe Systems Incorporated.
+%%Copyright: All rights reserved.
+%%Copyright:
+%%Copyright: Redistribution and use in source and binary forms, with or
+%%Copyright: without modification, are permitted provided that the
+%%Copyright: following conditions are met:
+%%Copyright:
+%%Copyright: Redistributions of source code must retain the above
+%%Copyright: copyright notice, this list of conditions and the following
+%%Copyright: disclaimer.
+%%Copyright:
+%%Copyright: Redistributions in binary form must reproduce the above
+%%Copyright: copyright notice, this list of conditions and the following
+%%Copyright: disclaimer in the documentation and/or other materials
+%%Copyright: provided with the distribution. 
+%%Copyright:
+%%Copyright: Neither the name of Adobe Systems Incorporated nor the names
+%%Copyright: of its contributors may be used to endorse or promote
+%%Copyright: products derived from this software without specific prior
+%%Copyright: written permission. 
+%%Copyright:
+%%Copyright: THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+%%Copyright: CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+%%Copyright: INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+%%Copyright: MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+%%Copyright: DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+%%Copyright: CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+%%Copyright: SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+%%Copyright: NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+%%Copyright: LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+%%Copyright: HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+%%Copyright: CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+%%Copyright: OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+%%Copyright: SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+%%Copyright: -----------------------------------------------------------
+%%EndComments
+
+/CIDInit /ProcSet findresource begin
+
+12 dict begin
+
+begincmap
+
+/UniJIS-UTF16-H usecmap
+
+/CIDSystemInfo 3 dict dup begin
+  /Registry (Adobe) def
+  /Ordering (Identity) def
+  /Supplement 0 def
+end def
+
+/CMapName /YuFont_UniJIS-UTF16-V def
+/CMapVersion 1.004 def
+/CMapType 1 def
+
+
+/WMode 1 def
+
+100 begincidchar
+<00b0> 8271
+<2010> 7895
+<2015> 7894
+<2016> 7897
+<2025> 7900
+<2026> 7899
+<2032> 8275
+<2033> 8285
+<2190> 740
+<2191> 738
+<2192> 741
+<2193> 739
+<21c4> 8313
+<21c5> 8312
+<21c6> 8314
+<21e6> 8014
+<21e7> 8016
+<21e8> 8013
+<21e9> 8015
+<239b> 12150
+<239c> 12170
+<239d> 12149
+<239e> 12152
+<239f> 12170
+<23a0> 12151
+<23a1> 12158
+<23a2> 12170
+<23a3> 12157
+<23a4> 12160
+<23a5> 12170
+<23a6> 12159
+<23a7> 8170
+<23a8> 8169
+<23a9> 8168
+<23aa> 12170
+<23ab> 8174
+<23ac> 8173
+<23ad> 8172
+<250c> 7497
+<250d> 7499
+<250e> 7498
+<250f> 7500
+<2510> 7505
+<2511> 7507
+<2512> 7506
+<2513> 7508
+<2514> 7493
+<2515> 7495
+<2516> 7494
+<2517> 7496
+<2518> 7501
+<2519> 7503
+<251a> 7502
+<251b> 7504
+<251c> 7525
+<251d> 7529
+<251e> 7527
+<251f> 7526
+<2520> 7528
+<2521> 7531
+<2522> 7530
+<2525> 7537
+<2526> 7535
+<2527> 7534
+<2528> 7536
+<2529> 7539
+<252a> 7538
+<252b> 7540
+<252c> 7517
+<2530> 7518
+<2534> 7509
+<2538> 7510
+<2540> 7543
+<2541> 7542
+<2542> 7544
+<2543> 7549
+<2544> 7551
+<2545> 7548
+<2546> 7550
+<2547> 7555
+<2548> 7554
+<261c> 8223
+<261d> 8221
+<261e> 8224
+<261f> 8222
+<2702> 12180
+<27a1> 8211
+<301c> 7896
+<301d> 7958
+<301f> 7959
+<3041> 7920
+<3043> 7921
+<3045> 7922
+<3047> 7923
+<3049> 7924
+<3063> 7925
+<3083> 7926
+<3085> 7927
+<3087> 7928
+<308e> 7929
+endcidchar
+
+78 begincidchar
+<309b> 8274
+<309c> 8273
+<30a0> 16333
+<30a1> 7930
+<30a3> 7931
+<30a5> 7932
+<30a7> 7933
+<30a9> 7934
+<30c3> 7935
+<30e3> 7936
+<30e5> 7937
+<30e7> 7938
+<30ee> 7939
+<30fc> 7893
+<3300> 8352
+<3303> 8340
+<3304> 11962
+<3305> 8335
+<3306> 11963
+<3307> 11967
+<3308> 11965
+<3309> 11970
+<330a> 11968
+<330b> 11972
+<330c> 11974
+<330d> 7952
+<3314> 7943
+<3315> 8342
+<3316> 8332
+<3317> 11982
+<3318> 8341
+<3319> 11984
+<331e> 8355
+<3322> 8331
+<3323> 8350
+<3324> 11993
+<3325> 11995
+<3326> 7953
+<3327> 7947
+<332a> 8358
+<332b> 7955
+<332d> 12001
+<3331> 8360
+<3332> 12007
+<3333> 8336
+<3336> 7949
+<3337> 12016
+<3338> 12018
+<3339> 8345
+<333a> 12019
+<333b> 8351
+<333c> 12012
+<333d> 12020
+<3341> 12021
+<3342> 8349
+<3347> 8359
+<3348> 12029
+<3349> 7942
+<334a> 7956
+<334d> 7945
+<334e> 8339
+<3351> 7950
+<3352> 12036
+<3353> 12040
+<3354> 12037
+<3357> 8346
+<337f> 8326
+<ff0c> 8270
+<ff0e> 8276
+<ff1d> 7919
+<ff3b> 7905
+<ff3d> 7906
+<ff3f> 7892
+<ff5b> 7907
+<ff5c> 7898
+<ff5d> 7908
+<ff5e> 7896
+<ffe3> 7891
+endcidchar
+
+37 begincidrange
+<23b0> <23b1> 16352
+<2500> <2501> 7483
+<2502> <2503> 7481
+<2504> <2505> 7487
+<2506> <2507> 7485
+<2508> <2509> 7491
+<250a> <250b> 7489
+<2523> <2524> 7532
+<252d> <252f> 7519
+<2531> <2533> 7522
+<2535> <2537> 7511
+<2539> <253b> 7514
+<253d> <253f> 7545
+<2549> <254a> 7552
+<3001> <3002> 7889
+<3008> <3011> 7909
+<3014> <3015> 7903
+<3016> <3017> 16331
+<3018> <3019> 12141
+<3095> <3096> 8266
+<30f5> <30f6> 7940
+<31f0> <31f9> 16335
+<31fa> <31ff> 16346
+<3301> <3302> 11960
+<330e> <3313> 11975
+<331a> <331d> 11986
+<331f> <3321> 11990
+<3328> <3329> 11998
+<332e> <3330> 12004
+<3334> <3335> 12010
+<333e> <3340> 12022
+<3343> <3346> 12025
+<334b> <334c> 12030
+<334f> <3350> 12032
+<3355> <3356> 12041
+<ff08> <ff09> 7901
+<ff5f> <ff60> 12143
+endcidrange
+
+endcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+
+%%EndResource
+%%EOF

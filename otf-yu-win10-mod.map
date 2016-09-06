@@ -1,0 +1,80 @@
+
+% TEXT, 90JIS
+hminl-h	YuFont_-H	yuminl.ttf/I %!PS YuMincho-Light
+hminl-v	YuFont_-V	yuminl.ttf/I %!PS YuMincho-Light
+hminr-h	YuFont_-H	yumin.ttf/I %!PS YuMincho-Regular
+hminr-v	YuFont_-V	yumin.ttf/I %!PS YuMincho-Regular
+hminb-h	YuFont_-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+hminb-v	YuFont_-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+hgothr-h	YuFont_-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+hgothr-v	YuFont_-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+hgothb-h	YuFont_-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hgothb-v	YuFont_-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hgotheb-h	YuFont_-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hgotheb-v	YuFont_-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hmgothr-h	YuFont_-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hmgothr-v	YuFont_-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+
+% TEXT, JIS04
+hminln-h	YuFont_-H	yuminl.ttf/I %!PS YuMincho-Light
+hminln-v	YuFont_-V	yuminl.ttf/I %!PS YuMincho-Light
+hminrn-h	YuFont_-H	yumin.ttf/I %!PS YuMincho-Regular
+hminrn-v	YuFont_-V	yumin.ttf/I %!PS YuMincho-Regular
+hminbn-h	YuFont_-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+hminbn-v	YuFont_-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+hgothrn-h	YuFont_-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+hgothrn-v	YuFont_-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+hgothbn-h	YuFont_-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hgothbn-v	YuFont_-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hgothebn-h	YuFont_-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hgothebn-v	YuFont_-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hmgothrn-h	YuFont_-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+hmgothrn-v	YuFont_-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+
+% CID
+otf-cjml-h	YuFont_-Identity-H	yuminl.ttf/I %!PS YuMincho-Light
+otf-cjml-v	YuFont_-Identity-V	yuminl.ttf/I %!PS YuMincho-Light
+otf-cjmr-h	YuFont_-Identity-H	yumin.ttf/I %!PS YuMincho-Regular
+otf-cjmr-v	YuFont_-Identity-V	yumin.ttf/I %!PS YuMincho-Regular
+otf-cjmb-h	YuFont_-Identity-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+otf-cjmb-v	YuFont_-Identity-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+otf-cjgr-h	YuFont_-Identity-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+otf-cjgr-v	YuFont_-Identity-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+otf-cjgb-h	YuFont_-Identity-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-cjgb-v	YuFont_-Identity-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-cjge-h	YuFont_-Identity-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-cjge-v	YuFont_-Identity-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-cjmgr-h	YuFont_-Identity-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-cjmgr-v	YuFont_-Identity-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+
+% Unicode 90JIS
+otf-ujml-h	YuFont_UniJIS-UTF16-H	yuminl.ttf/I %!PS YuMincho-Light
+otf-ujml-v	YuFont_UniJIS-UTF16-V	yuminl.ttf/I %!PS YuMincho-Light
+otf-ujmr-h	YuFont_UniJIS-UTF16-H	yumin.ttf/I %!PS YuMincho-Regular
+otf-ujmr-v	YuFont_UniJIS-UTF16-V	yumin.ttf/I %!PS YuMincho-Regular
+otf-ujmb-h	YuFont_UniJIS-UTF16-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+otf-ujmb-v	YuFont_UniJIS-UTF16-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+otf-ujgr-h	YuFont_UniJIS-UTF16-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+otf-ujgr-v	YuFont_UniJIS-UTF16-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+otf-ujgb-h	YuFont_UniJIS-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujgb-v	YuFont_UniJIS-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujge-h	YuFont_UniJIS-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujge-v	YuFont_UniJIS-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujmgr-h	YuFont_UniJIS-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujmgr-v	YuFont_UniJIS-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+
+% Unicode JIS04
+otf-ujmln-h	YuFont_UniJIS2004-UTF16-H	yuminl.ttf/I %!PS YuMincho-Light
+otf-ujmln-v	YuFont_UniJIS2004-UTF16-V	yuminl.ttf/I %!PS YuMincho-Light
+otf-ujmrn-h	YuFont_UniJIS2004-UTF16-H	yumin.ttf/I %!PS YuMincho-Regular
+otf-ujmrn-v	YuFont_UniJIS2004-UTF16-V	yumin.ttf/I %!PS YuMincho-Regular
+otf-ujmbn-h	YuFont_UniJIS2004-UTF16-H	yumindb.ttf/I %!PS YuMincho-DemiBold
+otf-ujmbn-v	YuFont_UniJIS2004-UTF16-V	yumindb.ttf/I %!PS YuMincho-DemiBold
+otf-ujgrn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+otf-ujgrn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothR.ttc/I %!PS YuGothic-Regular
+otf-ujgbn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujgbn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujgen-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujgen-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujmgrn-h	YuFont_UniJIS2004-UTF16-H	:0:YuGothB.ttc/I %!PS YuGothic-Bold
+otf-ujmgrn-v	YuFont_UniJIS2004-UTF16-V	:0:YuGothB.ttc/I %!PS YuGothic-Bold
