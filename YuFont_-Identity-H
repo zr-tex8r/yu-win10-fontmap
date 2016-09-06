@@ -66,7 +66,7 @@ end def
 endcodespacerange
 
 100 begincidrange
-<0000> <00ff> 0
+<0000> <00ff> 2
 <0100> <01ff> 258
 <0200> <02ff> 514
 <0300> <03ff> 770
